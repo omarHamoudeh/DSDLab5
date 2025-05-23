@@ -1,0 +1,250 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/user/Desktop/Lab5/simulation/qsim
+vgame
+Z1 !s110 1728494502
+!i10b 1
+!s100 TokDWe^k?5=>?M`kdVWHV0
+ILgUA[NcfGA[3P;X>CSO8Z2
+Z2 V`JN@9S9cnhjKRR_L]QIcM3
+R0
+w1728494501
+Z3 8Lab5.vo
+Z4 FLab5.vo
+Z5 L0 32
+Z6 OV;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1728494502.437288
+Z7 !s107 Lab5.vo|
+Z8 !s90 -work|work|Lab5.vo|
+!i113 1
+Z9 o-work work
+vgame_vlg_check_tst
+R1
+!i10b 1
+!s100 J1MA`ocWM0o[g]bh3KTdk3
+IJ@oFKfchb0RFMLjf;B=I62
+R2
+R0
+Z10 w1728494500
+Z11 8testWaveform.vwf.vt
+Z12 FtestWaveform.vwf.vt
+L0 68
+R6
+r1
+!s85 0
+31
+Z13 !s108 1728494502.461162
+Z14 !s107 testWaveform.vwf.vt|
+Z15 !s90 -work|work|testWaveform.vwf.vt|
+!i113 1
+R9
+vgame_vlg_sample_tst
+R1
+!i10b 1
+!s100 Vgdk45]_>VQ_;:`6dMGS?2
+I`G:0=<fh4c^4j1Uf[g`1L2
+R2
+R0
+R10
+R11
+R12
+Z16 L0 30
+R6
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 1
+R9
+vgame_vlg_vec_tst
+R1
+!i10b 1
+!s100 lX06:X7KcBiY2=8JXi=jb1
+I<SXg5?KF>z^aKFVoZg]ZP0
+R2
+R0
+R10
+R11
+R12
+L0 433
+R6
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 1
+R9
+vroom
+Z17 !s110 1728411241
+!i10b 1
+!s100 bBz@`K=7mWmYbTDkkZAMF3
+Icmj9M7d2YW[6z13cUj0NU0
+R2
+R0
+w1728411241
+R3
+R4
+R5
+R6
+r1
+!s85 0
+31
+!s108 1728411241.484802
+R7
+R8
+!i113 1
+R9
+vroom_vlg_check_tst
+R17
+!i10b 1
+!s100 n]^J:=KLUEd_RLdGZNj2U0
+IACWQ7Xc9F2i<_D6Tjc^`S0
+R2
+R0
+Z18 w1728411239
+Z19 8room.vwf.vt
+Z20 Froom.vwf.vt
+L0 70
+R6
+r1
+!s85 0
+31
+Z21 !s108 1728411241.507359
+Z22 !s107 room.vwf.vt|
+Z23 !s90 -work|work|room.vwf.vt|
+!i113 1
+R9
+vroom_vlg_sample_tst
+R17
+!i10b 1
+!s100 JHC=>=:oUGcli_^EBh[K?1
+IB1[DDW8eGGAVMD4mF>l<23
+R2
+R0
+R18
+R19
+R20
+R16
+R6
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 1
+R9
+vroom_vlg_vec_tst
+R17
+!i10b 1
+!s100 f]k;BB:1j[Dd3gMoY@3n>1
+I[>d>I][J8nf]DF`O7NjO51
+R2
+R0
+R18
+R19
+R20
+L0 408
+R6
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 1
+R9
+vsword
+Z24 !s110 1728407880
+!i10b 1
+!s100 9HSUNgz8O9@OFziidYS3J3
+I9ZjQJ?[<MHDQEzmhch[R@3
+R2
+R0
+w1728407879
+R3
+R4
+R5
+R6
+r1
+!s85 0
+31
+!s108 1728407880.429405
+R7
+R8
+!i113 1
+R9
+vsword_vlg_check_tst
+R24
+!i10b 1
+!s100 KEToBl`zz?9SKN9fl6;KI3
+Io<6^4LjRA42bWg5j^8WIg2
+R2
+R0
+Z25 w1728407878
+Z26 8sword.vwf.vt
+Z27 Fsword.vwf.vt
+L0 62
+R6
+r1
+!s85 0
+31
+Z28 !s108 1728407880.448215
+Z29 !s107 sword.vwf.vt|
+Z30 !s90 -work|work|sword.vwf.vt|
+!i113 1
+R9
+vsword_vlg_sample_tst
+R24
+!i10b 1
+!s100 :lbTVV_UlZ^@<3[JhQb:P0
+I?PUjn?48J?BJV1IUM?GKa2
+R2
+R0
+R25
+R26
+R27
+R16
+R6
+r1
+!s85 0
+31
+R28
+R29
+R30
+!i113 1
+R9
+vsword_vlg_vec_tst
+R24
+!i10b 1
+!s100 AmTiH]JYBoD]=ULML3dli0
+I82A^QeXDgP_dJBoUmA]n`2
+R2
+R0
+R25
+R26
+R27
+L0 157
+R6
+r1
+!s85 0
+31
+R28
+R29
+R30
+!i113 1
+R9
