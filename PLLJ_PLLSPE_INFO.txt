@@ -1,0 +1,5 @@
+PLL_Name	clk~0
+PLLJITTER	30
+PLLSPEmax	84
+PLLSPEmin	-53
+
