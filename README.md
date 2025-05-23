@@ -32,7 +32,6 @@ The player must obtain the sword before entering the Dragon’s Den. If they do,
 | `game.sv`        | Top-level game module                 |
 | `Lab5.qpf/qsf`   | Quartus project files                 |
 | `*.vwf`          | Simulation waveform files             |
-| `.gitignore`     | Git tracking exclusions               |
 | `images/`        | FSM diagrams, waveforms, and photos   |
 
 
